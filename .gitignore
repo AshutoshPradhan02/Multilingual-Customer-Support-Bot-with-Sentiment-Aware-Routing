@@ -1,0 +1,25 @@
+# 🔐 Secrets
+.env
+
+# 🧠 Python
+__pycache__/
+*.pyc
+
+# 🧪 Virtual env
+.venv/
+
+# 📦 Cache
+.cache/
+huggingface/
+
+# 🖥 OS
+.DS_Store
+Thumbs.db
+
+# 🧰 IDE
+.vscode/
+
+# 🎥 Large files
+*.mp4
+*.exe
+*.docx
